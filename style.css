@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    background-color: rgb(114, 114, 26);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  #btnCatch {
+    padding: 10px 20px;
+    height: 50px;
+    width: 100px;
+    background-color: rgb(234, 72, 19);
+    color: white;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+    border-radius: 5px;
+    font-size: 15px;
+  }
+  
+  
